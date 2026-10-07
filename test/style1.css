@@ -1,7 +1,7 @@
 /* styles.css */
 body {
   font-family: Arial, sans-serif;
-  background-color: #f309096e;
+  background-color: #09ebf36e;
 }
 
 h1 {
@@ -14,4 +14,12 @@ h2 {
 p {
   font-size: 14px;
   line-height: 1.5;
+  color:green;
+.note
+{color:rgb(66, 9, 5)}
+#intro
+{
+  color:purple;
 }
+}
+
